@@ -16,6 +16,7 @@ Ignore Eclipse
 **Debug/
 .metadata/
 **/.cproject
+**/.recommenders
 **/.project
 **/.settings/
 RemoteSystemsTempFiles/
